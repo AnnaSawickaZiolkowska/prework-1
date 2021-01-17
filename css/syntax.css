@@ -10,6 +10,6 @@ a[href$="pdf"]{
     color: green;
 }
 
-a[href^="pdf"]{
+a[href^="http"]{
     color: pink;
 }
