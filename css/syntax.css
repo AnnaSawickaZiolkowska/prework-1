@@ -1,7 +1,16 @@
-#header p{
-    text-transform: capitalize;
+#header h1{
+    color: chocolate;
 }
 
-body > p{
-    text-transform: uppercase;
+#header h2{
+    color: #565656;
+}
+
+#header {
+    background-color: antiquewhite;
+}
+
+p{
+    background: url(#);
+
 }
