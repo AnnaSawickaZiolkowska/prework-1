@@ -1,5 +1,8 @@
+h1{
+    font-weight: normal;
+}
 
-
-a{
-    text-decoration: overline;
+p{
+    font-weight: 900;
+    font-family: "yu gothic";
 }
