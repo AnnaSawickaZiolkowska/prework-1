@@ -1,26 +1,19 @@
-.static-width{
-    width: 300px;
+#banner{
+    background-color: #606060;
+    width: 600px;
     height: 300px;
-background-color: #606060;
-background-image: url(https://img.icons8.com/flat_round/2x/star.png);
-background-repeat: no-repeat;
-background-position: center;
+    background-image: url(https://img.icons8.com/flat_round/2x/star.png), url(https://img.icons8.com/bubbles/2x/star.png);
+    background-image: 100px, 100px;
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, top left;
+    background-size: 300px, 100%;
 }
 
-.static-width{
-    width: 300px;
-    height: 300px;
-background-color: #606060;
-background-image: url(https://img.icons8.com/flat_round/2x/star.png);
-background-repeat: no-repeat;
-background-position: 80% 20%;
-background-size: 200px;
-}
 
-.static-width{
-    width: 300px;
-    height: 300px;
-    background: url(https://img.icons8.com/flat_round/2x/star.png) no-repeat top center;
-background-color: #606060;
-background-size: 200px;
-}
+
+
+/*
+https://img.icons8.com/flat_round/2x/star.png
+https://img.icons8.com/bubbles/2x/star.png
+
+*/
